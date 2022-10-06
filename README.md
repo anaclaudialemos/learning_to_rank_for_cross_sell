@@ -169,7 +169,7 @@ Start another cycle to analyze the problem looking for different approaches, esp
 * Improve the Google Sheets interface with other functionalities, to enhance the user experience.
 
 ## References
-* Introduction image by [Vlad Deep](https://unsplash.com/@vladdeep) on [Unsplash](https://unsplash.com/photos/mCqi3MljC4E)
+* Introduction image by [Vlad Deep](https://unsplash.com/@vladdeep) on [Unsplash](https://unsplash.com/photos/mCqi3MljC4E).
 * Dataset and variables meaning from [Kaggle](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction). 
 
 #### 🤝 Contact me:
